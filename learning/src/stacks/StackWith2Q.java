@@ -18,7 +18,7 @@ public class StackWith2Q {
 
     /** Initialize your data structure here. */
     public StackWith2Q() {
-        q1 = new LinkedList<Integer>();
+        q1 = new LinkedList<Integer>(); 
         q2 = new LinkedList<Integer>();
 
     }
