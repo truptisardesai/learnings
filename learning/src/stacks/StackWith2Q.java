@@ -56,7 +56,7 @@ public static void main(String args[]) {
 	StackWith2Q stack = new StackWith2Q();
 
 	stack.push(1);
-	System.out.println(stack.top());
+	System.out.println(stack.top()); 
 	
 	stack.push(2); 
 	System.out.println(stack.top());
